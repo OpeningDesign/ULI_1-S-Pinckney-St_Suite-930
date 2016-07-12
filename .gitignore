@@ -3,8 +3,11 @@
 *.mp4
 *.bak
 *.ifc.log.html
+.dropbox
 Ryan_Random_Tests/
 
+# Folder to store misc things that shouldn't be shared
+Unshared/
 
 
 # Windows image file caches
